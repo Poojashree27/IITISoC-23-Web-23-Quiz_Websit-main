@@ -1,0 +1,33 @@
+.profile-page {
+  background-image: url("public/profile-page@3x.png");
+  background-image: url(/public/home-page@3x.png);
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+.profile-icon {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid white;
+}
+
+.greeting-box {
+  background-color: rgba(52, 58, 64, 0.85); /* semi-transparent dark */
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+}
+
+.home-btn {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background-color: #cbabe4;
+  color: black;
+  border: none;
+  border-radius: 8px;
+}

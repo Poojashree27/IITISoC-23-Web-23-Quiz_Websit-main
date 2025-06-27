@@ -1,0 +1,217 @@
+.component1,
+.component2Child {
+  width: 153px;
+  height: 50px;;
+  position: absolute;
+  top: 40px;
+  left: 1170px;
+  background-color:black ;
+}
+.component2Child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+ 
+ background-image: url(/public/log.png);
+}
+
+.component2,
+.logo {
+  position: relative;
+  top: 44.02%;
+  left: 33.81%;
+}
+.component2 {
+  top: 270px;
+  left: 150px;
+  width: 210px;
+  height: 132px;
+  color: var(--color-black);
+}
+.component11 {
+  width: 153px;
+  height: 50px;;
+  position: absolute;
+  top: 40px;
+  left: 1000px;
+  background-color:black ;
+}
+.loginPage1{ 
+   background-image: url(/public/home-page@3x.png);
+}
+
+.loginPage1Child {
+  position: absolute;
+  top: 403px;
+  left: calc(50% + 610px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+ 
+  width: 1px;
+  height: 12px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.quizzylicious {
+  position: absolute;
+  top: 70px;
+  left: 53px;
+  display: inline-block;
+  width: 624px;
+  height: 116px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:100%;
+margin-bottom:20%;
+
+}
+.quizzyliciousWrapper {
+  position: absolute;
+  top: 216px;
+  left: 380px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #171e5a;
+  width: 730px;
+  height: 230px;
+  overflow: hidden;
+  text-align: center;
+  font-size:500%;
+  font-family: var(--font-josefin-sans);
+}
+.text {
+  position: absolute;
+  top: 59px;
+  left: 937px;
+  color: var(--color-black);
+}
+.loginPage1Inner,
+.loginPage1Item,
+
+.rectangleDiv {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue);
+  width: 80px;
+  height: 180px;}
+
+.loginPage1Inner,
+.rectangleDiv {
+  top: 210px;
+}
+.rectangleDiv {
+  top: 400px;
+}
+.mathematics {
+  position: absolute;
+  top: 577px;
+  left: 35px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.text1 {
+  position: absolute;
+  top: 515px;
+  left: 61px;
+  color: var(--color-black);
+}
+.chemistry,
+.physics {
+  position: absolute;
+  left: 35px;
+  transform-origin: 0 0;
+}
+.physics {
+  top: 159.37px;
+  display: inline-block;
+  width: 128.37px;
+  height: 45.84px;
+  transform: rotate(-90deg);
+}
+.chemistry {
+  top: 370px;
+  transform: rotate(-90deg);
+}
+.rectangleIcon {
+  top: 490px;
+  left: 120px;
+  border-radius: var(--br-31xl);
+  width: 1190px;
+  height: 210px;
+}
+.login,
+.quote,
+.rectangleIcon {
+  position: absolute;
+  
+
+}
+
+.quote {
+  top: 550px;
+  left: 300px;
+text-align: center;
+  font-weight: bolder;
+  font-size: 300%;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 10px;
+
+
+}
+
+.rectangleButton {
+  width: 441px;
+  
+  position: absolute;
+  top: 861px;
+  left: 35px;
+  background-color: black;
+}
+
+.loginPage1Child1 {
+  width: 220px;
+  position: absolute;
+  top: 870px;
+  left: 876px;
+  background-color: black;
+}
+.signUp {
+  position: absolute;
+  width: 153px;
+  top: 896px;
+  left: 936px;
+  text-align: center;
+ 
+}
+.loginPage1Child2 {
+  position: absolute;
+  width: 200px;
+
+  top: 869px;
+  left: 1123px;
+  text-align: center;
+  background-color:black ;
+  
+}
+.loginPage1 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+
+
+.xd {
+
+}
